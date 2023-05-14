@@ -10,7 +10,7 @@ streamlit-option-menu==0.3.2
 streamlit-toggle-switch==1.0.2
 streamlit-vertical-slider==1.0.2
 scikit-learn==1.1.1
-scikit-learn-intelex==2021.3.0
+scikit-learn-intelex==2023.1.1
 pmdarima==2.0.3
 conda==22.9.0
 conda-build==3.21.8
